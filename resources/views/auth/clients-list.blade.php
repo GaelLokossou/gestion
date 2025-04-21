@@ -8,8 +8,8 @@
         background-color: #fff;
         border-radius: 12px;
         padding: 20px;
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
         margin-bottom: 20px;
+        margin-left: 25px;
     }
 
     .youtube-table {
@@ -76,7 +76,6 @@
         border: 1px solid #ddd;
         border-radius: 20px;
         margin-bottom: 20px;
-        box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     }
 
     .search-input::placeholder {
@@ -137,7 +136,7 @@
 
 @section('content')
 <div class="youtube-card">
-    <div class="d-flex justify-content-between align-items-center mb-3">
+    <div class="d-flex justify-content-between align-items-center flex-wrap mb-3">
         <h2 class="h5">Liste des Clients</h2>
 
         <!-- Barre de Recherche -->

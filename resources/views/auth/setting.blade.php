@@ -8,8 +8,8 @@
         background-color: #fff;
         border-radius: 12px;
         padding: 20px;
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
         margin-bottom: 30px;
+        margin-left: 25px;
     }
 
     .settings-section {
@@ -39,7 +39,7 @@
     }
 
     .form-group input[type="checkbox"] {
-        width: auto;
+        width: 700px;
     }
 
     .form-button {

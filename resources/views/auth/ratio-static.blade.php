@@ -9,7 +9,6 @@
         background-color: #fff;
         border-radius: 12px;
         padding: 20px;
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
         margin-bottom: 20px;
         display: flex;
         justify-content: space-between;
@@ -22,7 +21,6 @@
         border-radius: 16px;
         padding: 20px;
         text-align: center;
-        box-shadow: 0 0 8px rgba(0,0,0,0.05);
         transition: 0.3s;
         display: flex;
         flex-wrap: wrap;

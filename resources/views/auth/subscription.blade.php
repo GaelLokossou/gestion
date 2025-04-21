@@ -8,7 +8,6 @@
         background-color: #fff;
         border-radius: 12px;
         padding: 20px;
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.05);
         margin-bottom: 20px;
     }
 

@@ -8,6 +8,9 @@
     background-color: white;
     border-radius: 8px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.1);
+    margin-left: 25px;
+    align-items: center;
+    gap: 20px;
   }
 
   .vente-header {

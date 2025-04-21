@@ -126,7 +126,7 @@
         }
 
         .add-button {
-            background-color: #ff4d4d;
+            background-color: #FF0000;
             color: white;
             padding: 8px 20px;
             border-radius: 30px;
@@ -142,7 +142,7 @@
         }
 
         .add-button:hover {
-            background-color: #e60000;
+            background-color: #cc0000;
         }
 
         .add-button:active {
@@ -152,8 +152,8 @@
         /* Animation d'effet au focus sur la barre de recherche */
         .search-input:focus {
             outline: none;
-            border: 1px solid #ff4d4d;
-            box-shadow: 0 0 5px rgba(255, 77, 77, 0.5);
+            border: 1px solid #FF0000;
+            box-shadow: 0 0 5px #FF0000;
         }
 
 
